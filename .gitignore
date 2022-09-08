@@ -1,0 +1,12 @@
+target/
+project/target/
+.vscode
+credentials.yaml
+credentials.yml
+.bsp
+.metals
+.vscode
+.jvmopts
+.scalafmt.conf
+.idea
+null
